@@ -1,0 +1,13 @@
+return 
+int
+12834
+QuieroelSamsungS24
+
+"Esta es una cadena :0"
+
+//Este es un comentario de una sola linea
+
+/*Este es un comentario
+* Multi
+* linea
+*/
